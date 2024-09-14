@@ -75,7 +75,9 @@ _Junior Data Analyst specializing in:_
 - **20th National Symposium at EPSF HUE** – November 2019  
 - **1st EPC International Conference** – October 2019
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
 
 ## 📈 Projects
 
